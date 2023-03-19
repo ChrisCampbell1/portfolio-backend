@@ -1,0 +1,7 @@
+function sendEmail() {
+
+}
+
+export {
+  sendEmail
+}
